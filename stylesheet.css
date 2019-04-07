@@ -1,0 +1,26 @@
+* {
+ margin: 0px;
+ padding: 0px;
+}
+
+.header-contents{
+  float: left;
+  position: relative;
+}
+
+.header-title{
+  color: white;
+  margin: 0;
+  position: absolute;
+  top: 44%;
+  width: 100%;
+}
+
+.hedeer-image{
+  padding-top: calc(614/ 928 *100%);
+  background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    width: 100%;
+}
